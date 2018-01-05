@@ -3,6 +3,9 @@
 The log of my #100DaysOfCode challenge. Started on [January, 5th 2018].
 Beginning of challenge starts at: https://www.freecodecamp.org/
 
+**REMEMBER**
+Tweet every day, and encourage at least 2 others.
+
 ## Log
 
 ### R1D1
