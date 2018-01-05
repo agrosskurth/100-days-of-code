@@ -1,10 +1,15 @@
-# #100DaysOfCode Log - Round 1 - [Your Name Here]
+# #100DaysOfCode Log - Round 1 - Andrew Grosskurth
 
-The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
+The log of my #100DaysOfCode challenge. Started on [January, 5th 2018].
+Beginning of challenge starts at: https://www.freecodecamp.org/
 
 ## Log
 
 ### R1D1 
-Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
+Worked on installing Visual Studio with Xamarin on my desktop, as well as GitHub Desktop and GitHub Shell
+Created starting plan: To work on and finish the full FreeCodeCamp courses and get certificates in
+-Front End Development
+-Back End Development
+-Data Visualization(In the future)
 
 ### R1D2
