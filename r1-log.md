@@ -5,8 +5,8 @@ Beginning of challenge starts at: https://www.freecodecamp.org/
 
 ## Log
 
-### R1D1 
-Worked on installing Visual Studio with Xamarin on my desktop, as well as GitHub Desktop and GitHub Shell
+### R1D1
+Worked on installing Visual Studio with Xamarin on my desktop, as well as GitHub Desktop, Git, and Atom text editor
 Created starting plan: To work on and finish the full FreeCodeCamp courses and get certificates in
 -Front End Development
 -Back End Development
