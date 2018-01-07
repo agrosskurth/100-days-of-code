@@ -19,3 +19,13 @@ Completed last 19 tasks for JQuery on FreeCodeCamp,
 working on first HTML project.
 
 ### R1D2
+Completed the Tribute page from FreeCodeCamp
+-Added the blockquote for easier quote configuration
+-Added the correct picture
+-Added most of the content for the page
+-Added the link to the Neil Degrasse Tyson Wiki
+-Added the footer that links to my FreeCodeCamp page
+
+I also did a small amount of work on the second webpage, but did a lot more research instead.
+
+### R1D3
