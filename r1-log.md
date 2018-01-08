@@ -29,3 +29,10 @@ Completed the Tribute page from FreeCodeCamp
 I also did a small amount of work on the second webpage, but did a lot more research instead.
 
 ### R1D3
+Started work on the Portfolio webpage
+-Added JQuery for smooth-scrolling
+-Researched iframes
+-Researched objects
+-Created navbar with one link for testing
+
+I plan to work on the links to social media tomorrow, and style the webpage more tomorrow.
