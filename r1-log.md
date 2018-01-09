@@ -36,3 +36,11 @@ Started work on the Portfolio webpage
 -Created navbar with one link for testing
 
 I plan to work on the links to social media tomorrow, and style the webpage more tomorrow.
+
+### R1D4
+Put more work in the c# coding challenge:
+-Worked on the encoding request logic
+-Worked on buffer manipulation
+
+A lot of today was theory-crafting and brainstorming ideas on how to get the things
+done that I want done. Hopefully a night's rest will give me a better mindset tomorrow.

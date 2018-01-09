@@ -16,3 +16,8 @@ but there was a lot of research done today about JQuery, iframes and objects.
 I want to make sure this webpage is professionally made, so I will be putting
 a lot of effort into reading and learning how to do the things I want to do
 with the page.
+
+### Day 4 January 8, 2018
+I worked on the C# Coding project I was sent by my friend Rusty. It's for a possible
+job interview if I can get it working and. I am working on getting it functioning
+within the next week.
